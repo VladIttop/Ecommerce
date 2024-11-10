@@ -1,0 +1,25 @@
+.inner-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+p,
+li,
+a,
+ul,
+div,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=/main.4a87e44b.css.map */
